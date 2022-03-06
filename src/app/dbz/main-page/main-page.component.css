@@ -1,7 +1,3 @@
-button:focus {
-    outline: none;
-}
-
 .p-1 {
     padding: 1px;
 }
@@ -13,9 +9,4 @@ button:focus {
 .col {
     flex-grow: 1;
     margin-right: 10px;
-}
-
-input {
-    display: block;
-    margin: 5px;
 }
